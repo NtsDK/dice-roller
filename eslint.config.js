@@ -104,6 +104,7 @@ export default defineConfig(
       "unicorn/consistent-function-scoping": "off",
       "unicorn/prefer-switch": "off",
       "unicorn/no-array-sort": "off",
+      "unicorn/empty-brace-spaces": "off",
     },
   },
   {
